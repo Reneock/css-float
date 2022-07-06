@@ -1,0 +1,13 @@
+.container{
+	height: 500px;
+	background-color: grey;
+}
+
+.container div{
+	height: 200px;
+	width: 200px;
+	background-color: blue;
+	float: left;
+	margin: 10px;
+
+}
